@@ -44,7 +44,7 @@
 ## 📸 Скриншоты
 
 ### Рабочий стол (Дашборд)
-<img src="Screenshots/РабочийСтол.png" width="800">
+<img src="Screenshots/РабочийСтол .png" width="800">
 
 ### Документ «Заявки» (Шапка и Услуги)
 <img src="Screenshots/Заявка1.png" width="800">
