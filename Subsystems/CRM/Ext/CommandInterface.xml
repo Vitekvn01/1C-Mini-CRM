@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<SubsystemsOrder>
+		<Subsystem>e87cbc3c-275f-4167-962b-997d586ebc34</Subsystem>
+		<Subsystem>Subsystem.CRM.Subsystem.Заявки</Subsystem>
+		<Subsystem>Subsystem.CRM.Subsystem.Клиенты</Subsystem>
+		<Subsystem>Subsystem.CRM.Subsystem.Услуги</Subsystem>
+		<Subsystem>Subsystem.CRM.Subsystem.Сотрудники</Subsystem>
+		<Subsystem>Subsystem.CRM.Subsystem.ПоступлениеЗапчастей</Subsystem>
+		<Subsystem>Subsystem.CRM.Subsystem.Запчасти</Subsystem>
+		<Subsystem>Subsystem.CRM.Subsystem.Отчеты</Subsystem>
+		<Subsystem>Subsystem.CRM.Subsystem.Выгрузка</Subsystem>
+	</SubsystemsOrder>
+</CommandInterface>
